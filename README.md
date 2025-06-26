@@ -98,4 +98,4 @@ You can install them using the command mentioned in the Installation section.
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or suggestions, feel free to reach out at [your-email@example.com].
+For any questions or suggestions, feel free to reach out at [kanmazberfin508@gmail.com].
